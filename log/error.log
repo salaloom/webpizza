@@ -1,0 +1,2 @@
+[Tue Jul 09 10:19:44.918238 2019] [php7:warn] [pid 12244:tid 1968] [client 127.0.0.1:50132] PHP Warning:  require_once(database.php): failed to open stream: No such file or directory in C:\\xampp\\htdocs\\webpizza\\config\\config.php on line 40
+[Tue Jul 09 10:19:44.918238 2019] [php7:error] [pid 12244:tid 1968] [client 127.0.0.1:50132] PHP Fatal error:  require_once(): Failed opening required 'database.php' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\webpizza\\config\\config.php on line 40

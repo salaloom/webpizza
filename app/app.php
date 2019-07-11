@@ -9,10 +9,12 @@
  */
 /**
  * 2. Intégration de la configuration
- */require_once "../config/config.php";
+ */
+require_once "../config/config.php";
 /**
  * 3. Définition de l'environnement
  */
+require_once "../app/environnement.php";
 /**
  * 4. Comportement des erreurs
  */
